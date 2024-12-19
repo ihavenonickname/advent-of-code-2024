@@ -27,3 +27,5 @@
               (map * freq list1))))
          (reduce +)
          (println "Part 2:"))))
+
+(with-open [um-nome-longo (io/reader "")] (um-no))

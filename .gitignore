@@ -1,2 +1,5 @@
-resources/day*.txt
+**/resources/*.txt
 .cpcache
+.clj-kondo
+.cpcache
+.lsp
